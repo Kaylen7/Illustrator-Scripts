@@ -19,6 +19,3 @@ Some of the paths might be different for other versions of Illustrator.
 
 ## 👾 Contributions  
 This script has been developed with assistance from GPT-4o .  
-
-### 📖 References  
-- [Adobe Illustrator Scripting Guide](https://ai-scripting.docsforadobe.dev/)
